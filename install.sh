@@ -20,7 +20,7 @@ sudo apt install -y meson picom libxext-dev libxcb1-dev libxcb-damage0-dev libxc
 
 # Instalamos paquetes adionales
 
-sudo apt install -y kitty feh scrot scrub rofi xclip bat locate ranger neofetch wmname acpi bspwm sxhkd imagemagick
+sudo apt install -y kitty feh scrot scrub rofi xclip bat locate ranger neofetch wmname acpi bspwm sxhkd imagemagick cmatrix
 
 # Creando carpeta de Reposistorios
 
