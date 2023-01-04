@@ -58,4 +58,5 @@ A continuación un ejemplo de cómo se ve visualmente, custom p10k, kitty termin
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture11.PNG)
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture2.PNG)
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture3.PNG)
+#P10K - P10K/Root
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture4.PNG)
