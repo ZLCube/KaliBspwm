@@ -54,8 +54,8 @@ https://www.instagram.com/zlcube
 A continuación un ejemplo de cómo se ve visualmente, custom p10k, kitty terminal, zsh shell, custom wallpapers, i3lock, etc.
 
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture1.PNG)
-![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture11.PNG)
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture111.PNG)
+![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture11.PNG)
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture1.PNG)
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture2.PNG)
 ![](https://github.com/ZLCube/KaliBspwm/blob/main/Design%20preview%20(Useless)/Picture3.PNG)
