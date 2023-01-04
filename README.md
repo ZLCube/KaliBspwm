@@ -1,0 +1,33 @@
+# KaliBspwm
+
+BSPWM para Kali personalizado con un tema de pacman, perfecto para resolver mauqinas en HTB
+
+1.- Uso del Script
+
+https://github.com/ZLCube/KaliBspwm.git
+
+cd KaliBspwm
+
+chmod +x install.sh
+
+./install.sh
+
+Este Script esta diseñado para funcional en Kali Linux, aun que si decides probarlo en otra distrubicion dejamelo saber para ver que tal te fue y talvez darle soporte en la distribucion de tu eleccion, cabe aclarar que solo funciona en distribuciones base debian.
+
+2.- Wallpaper
+
+El wallpaper de s4vitar esta alojado en una carpeta Wallpaper que se crea en nuestro HOME, sin embargo agregue unos cuantos en la misma carpeta, estos los puedes modificar con el comando nano .config/bspwm/bspwmrc y renombrando el apartado wallpaper con el nombre del wallpaper de tu eleccion en la carpeta wallpapers.
+
+La configuración es la misma que el entorno de s4vitar al menos en cuanto a shortcuts y terminal se refiere.
+
+3.- Nvim
+
+Esta no esta incluida en el scripts
+
+UNA MENCION HONORIFICA A Mr. Pr1ngl3s, y a xjacksx por su gran colaboración y autorizacion de usar sus repositorios, te dejo el enlace a los perfiles de cada uno de ellos.
+
+xJacksx https://github.com/xJackSx/
+
+Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
+
+S4vitar https://github.com/s4vitar
