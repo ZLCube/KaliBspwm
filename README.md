@@ -36,9 +36,8 @@ S4vitar https://github.com/s4vitar
 
 Si necesitas más ayuda con la configuración:
 
-![](https://youtu.be/CClVFk4CCic)
 
-
+[![Watch the video](https://img.youtube.com/vi/CClVFk4CCic/default.jpg)](https://youtu.be/CClVFk4CCic)
 #===============================MIS-REDES==================================#
 
 Practicamente ZLCube en todos lados
