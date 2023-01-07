@@ -34,10 +34,10 @@ Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
 
 S4vitar https://github.com/s4vitar
 
-Si necesitas más ayuda con la configuración:
-
+Si necesitas más ayuda con la configuración pica en la imagen que te lleva a mi tutorial en mi canal de YT:
 
 [![Watch the video](https://img.youtube.com/vi/CClVFk4CCic/default.jpg)](https://youtu.be/CClVFk4CCic)
+
 #===============================MIS-REDES==================================#
 
 Practicamente ZLCube en todos lados
