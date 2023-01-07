@@ -36,13 +36,8 @@ S4vitar https://github.com/s4vitar
 
 Si necesitas más ayuda con la configuración:
 
-<object width="425" height="350">
-  <param name="movie" value= "https://www.youtube.com/watch?v=CClVFk4CCic" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![](https://markdown-videos.deta/youtube/CClVFk4CCic)](https://youtu.be/CClVFk4CCic)]
+
 
 #===============================MIS-REDES==================================#
 
