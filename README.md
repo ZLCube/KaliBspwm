@@ -2,10 +2,6 @@
 
 BSPWM para Kali personalizado con un tema de pacman, perfecto para resolver mauqinas en HTB
 
-Tengo un tutorial para el uso del script en el siguiente enlace: https://www.youtube.com/watch?v=CClVFk4CCic
-
-###Si prefieres configurarlo con el manual adelante
-
 1.- Uso del Script 
 
 https://github.com/ZLCube/KaliBspwm.git
@@ -38,6 +34,15 @@ Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
 
 S4vitar https://github.com/s4vitar
 
+Si necesitas más ayuda con la configuración:
+
+<object width="425" height="350">
+  <param name="movie" value= "https://www.youtube.com/watch?v=CClVFk4CCic" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 #===============================MIS-REDES==================================#
 
