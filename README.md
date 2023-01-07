@@ -36,7 +36,7 @@ S4vitar https://github.com/s4vitar
 
 Si necesitas más ayuda con la configuración:
 
-[![](https://markdown-videos.deta/youtube/CClVFk4CCic)](https://youtu.be/CClVFk4CCic)]
+[![](https://markdown-videos.deta/youtube/CClVFk4CCic)](https://youtu.be/CClVFk4CCic)
 
 
 #===============================MIS-REDES==================================#
