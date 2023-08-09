@@ -3,7 +3,9 @@
 BSPWM para Kali personalizado con un tema de pacman, perfecto para resolver mauqinas en HTB
 
 Primero que nada actualiza el sistema antes de usar este escript con ```sudo apt update``` y ```sudo apt upgrade```
+
 1.- Uso del Script 
+
 ```
 git clone https://github.com/ZLCube/KaliBspwm.git
 
